@@ -1,0 +1,32 @@
+
+.holder-span{
+  display: block;
+}
+
+.hidden{
+  display: none;
+}
+
+.mainContent{
+  width: 60%;
+  margin: auto;
+  text-align: center;
+
+}
+h1{
+  text-align: center;
+}
+
+input{
+  width: 33%;
+  margin-bottom: 1%;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+.button-holder{
+  text-align: center;
+}
